@@ -1,43 +1,37 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# =============== #
+# Unity generated #
+# =============== #
+UnityWorkspace/Builds/
+UnityWorkspace/Temp/
+UnityWorkspace/Obj/
+UnityWorkspace/UnityGenerated/
+UnityWorkspace/Library/
+UnityWorkspace/ProjectSettings
+UnityWorkspace/Assets/AssetStoreTools*
 
-# Folder config file
-Desktop.ini
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+UnityWorkspace/ExportedObj/
+UnityWorkspace/*.svd
+UnityWorkspace/*.userprefs
+UnityWorkspace/*.csproj
+UnityWorkspace/*.pidb
+UnityWorkspace/*.suo
+UnityWorkspace/*.sln
+UnityWorkspace/*.user
+UnityWorkspace/*.unityproj
+UnityWorkspace/*.booproj
+UnityWorkspace/*.dll*
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+# ============ #
+# OS generated #
+# ============ #
+UnityWorkspace/.DS_Store
+UnityWorkspace/.DS_Store?
+UnityWorkspace/._*
+UnityWorkspace/.Spotlight-V100
+UnityWorkspace/.Trashes
+UnityWorkspace/Icon?
+UnityWorkspace/ehthumbs.db
+UnityWorkspace/Thumbs.db
